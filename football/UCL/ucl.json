@@ -1,0 +1,41 @@
+{
+    "Real Madrid": [
+        "Quarter-Final", "RO16", "RO16", "RO16", "RO16", "RO16", "R016", "Semi-Final", "Semi-Final", "Semi-Final", "Winner", "Semi Final",
+        "Winner", "Winner", "Winner", "RO16", "RO16"
+    ],
+
+    "Barcelona": [
+        "Not-Eligible", "RO16", "Winner", "RO16", "Semi-Final", "Winner", "Semi-Final", "Winner", "Semi-Final", "Semi-Final", "Quarter-Final",
+        "Winner", "Quarter-Final", "Quarter-Final", "Quarter-Final", "Semi-Final", "Quarter-Final"
+    ],
+    
+    "Man Utd": [
+        "RO16", "RO16", "Group-Stage", "Semi-Final", "Winner", "Runner-Up", "Quarter-Final", "Runner-Up", "Group-Stage", "RO16", "Quarter-Final",
+        "Not-Eligible", "Group-Stage", "Not-Eligible", "RO16", "Quarter-Final", "Not-Eligible"
+    ],
+    
+    "Liverpool": [
+        "Not-Eligible", "Winner", "RO16", "Runner-Up", "Semi-Final", "Quarter-Final", "Group-Stage", "Not-Eligible", "Not-Eligible", "Not-Eligible",
+        "Not-Eligible", "Group-Stage", "Not-Eligible", "Not-Eligible", "Runner-Up", "Winner", "RO16"
+    ],
+    
+    "Chelsea": [
+        "Semi-Final", "Semi-Final", "RO16", "Semi-Final", "Runner-Up", "Semi-Final", "RO16", "Quarter-Final", "Winner", "Group-Stage", "Semi-Final",
+        "RO16", "RO16", "Not-Eligible", "RO16", "Not-Eligible", "RO16"
+    ],
+    
+    "Bayern Munich": [
+        "RO16", "Quarter-Final", "RO16", "Quarter-Final", "Not-Eligible", "Quarter-Final", "Runner-Up", "RO16", "Runner-Up", "Winner", "Semi-Final",
+        "Semi-Final", "Semi-Final", "Quarter-Final", "Semi-Final", "RO16", "Winner"
+    ],
+    
+    "PSG": [
+        "Not-Eligible", "Group-Stage", "Not-Eligible", "Not-Eligible", "Not-Eligible", "Not-Eligible", "Not-Eligible", "Not-Eligible", "Not-Eligible", 
+        "Quarter-Final", "Quarter-Final", "Quarter-Final", "Quarter-Final", "R016", "RO16", "RO16", "Runner-Up"
+    ],
+    
+    "Juventus": [
+        "RO16", "Quarter-Final", "Quarter-Final", "Not-Eligible", "Not-Eligible", "RO16", "Group-Stage", "Not-Eligible", "Not-Eligible", "Quarter-Final",
+        "Group-Stage", "Runner-Up", "RO16", "Runner-Up", "Quarter-Final", "Quarter-Final", "RO16"
+    ]
+}   
