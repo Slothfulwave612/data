@@ -1,7 +1,6 @@
-## download nltk and word2number packages using pip
+## download nltk package using pip
 import pandas as pd
 import nltk
-from word2number import w2n
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 from nltk.stem import WordNetLemmatizer
