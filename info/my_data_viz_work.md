@@ -1,6 +1,14 @@
 I use Python's package Matplotlib to make all the visualizatiions.
 
-## My Recent Visualization Work
+## My Recent Visualisation Work
+
+* Some visualisation on Indian Super League and Hyderabad FC:
+  
+  Viz 01: ![player_time_age](https://user-images.githubusercontent.com/33928040/106360908-19b13500-6341-11eb-9b6e-81051368293e.jpg)
+  
+  Viz 02: ![team_time_u25](https://user-images.githubusercontent.com/33928040/106360912-1cac2580-6341-11eb-9419-ad391eda97f9.jpg)
+  
+  Viz 03: ![radar_liston](https://user-images.githubusercontent.com/33928040/106360911-1b7af880-6341-11eb-93e5-78cfca79d3ee.jpg)
 
 * Updated the code in bumpy_chart module in the package soccerplots ([link to the tweet](https://twitter.com/slothfulwave612/status/1350797618775900161/photo/1))
   ![pic_02](https://user-images.githubusercontent.com/33928040/105451471-a05f7580-5ca2-11eb-82b6-dd59749d40e4.jpg)
