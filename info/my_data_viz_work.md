@@ -2,7 +2,7 @@ I use Python's package Matplotlib to make all the visualizatiions.
 
 ## My Recent Visualisation Work
 
-* Some visualisation on Indian Super League and Hyderabad FC:
+* Some visualisation on Indian Super League and Hyderabad FC: ([link to the tweet](https://twitter.com/slothfulwave612/status/1359126086005624835?s=20))
   
   Viz 01: ![player_time_age](https://user-images.githubusercontent.com/33928040/106360908-19b13500-6341-11eb-9b6e-81051368293e.jpg)
   
