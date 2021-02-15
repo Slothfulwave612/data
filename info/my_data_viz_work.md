@@ -2,6 +2,22 @@ I use Python's package Matplotlib to make all the visualizatiions.
 
 ## My Recent Visualisation Work
 
+* Visualization on performance of Mason Mount:
+  
+  Viz 01: ![01_shot_map_lampard](https://user-images.githubusercontent.com/33928040/107977136-a82fe280-6fe0-11eb-8fb6-c50023434429.jpg)
+  
+  Viz 02: ![01_shot_map_tuchel](https://user-images.githubusercontent.com/33928040/107977155-aebe5a00-6fe0-11eb-87da-8c2b573ee984.jpg)
+
+  Viz 03: ![03_heatmap_touches](https://user-images.githubusercontent.com/33928040/107977163-b1b94a80-6fe0-11eb-94e2-5d85964ba7df.jpg)
+  
+  Viz 04: ![04_radar_compare](https://user-images.githubusercontent.com/33928040/107977172-b3830e00-6fe0-11eb-8aea-e2083dc955af.jpg)
+  
+  Viz 05: ![04_radar_this_season](https://user-images.githubusercontent.com/33928040/107977176-b54cd180-6fe0-11eb-89da-963cb1a93053.jpg)
+  
+  Viz 06: ![05_passes_pen](https://user-images.githubusercontent.com/33928040/107977186-b847c200-6fe0-11eb-9907-7814bcaf45bc.jpg)
+
+  Viz 07: ![06_comparison](https://user-images.githubusercontent.com/33928040/107977203-bbdb4900-6fe0-11eb-92f7-1665a28b5096.jpg)
+
 * Some visualisation on Indian Super League and Hyderabad FC: ([link to the tweet](https://twitter.com/slothfulwave612/status/1359126086005624835?s=20))
   
   Viz 01: ![player_time_age](https://user-images.githubusercontent.com/33928040/106360908-19b13500-6341-11eb-9b6e-81051368293e.jpg)
